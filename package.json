@@ -1,6 +1,7 @@
 {
   "name": "proyecto-colegio",
   "private": true,
+  "homepage": "http://Elchel4s.github.io/proyecto_colegio/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
